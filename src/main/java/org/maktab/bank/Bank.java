@@ -4,6 +4,7 @@ import java.util.Random;
 
 public class Bank {
     private CustomerList customerList;
+    //ali mirzad
 
     public Bank() {
         this.customerList = new CustomerList();
